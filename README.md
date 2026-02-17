@@ -8,7 +8,7 @@ https://shadow-a2234.github.io/CYBERSEC/
 
 ## 🏫 Arah & Fokus Project
 - **Manfaat Kampus:** Memberikan edukasi praktis mengenai perlindungan data pribadi dan administrasi kampus (SIAKAD/Portal Mahasiswa).
-- **Relevansi Gen-Z:** Menggunakan pendekatan visual (terinspirasi dari Wuthering Waves), interaksi real-time, dan feedback instan.
+- **Relevansi Gen-Z:** Menggunakan pendekatan visual, interaksi real-time, dan feedback instan.
 
 ## 🛠️ Fitur Utama
 1. **DDoS Arena:** Simulasi serangan dengan sistem Health Bar, Collision Detection, dan mekanisme Overload otomatis.
