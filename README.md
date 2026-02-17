@@ -4,7 +4,7 @@
 Project ini dikembangkan untuk **SPINOTEK Vibecoding Hackathon Vol. 02**. Platform ini bertujuan mengedukasi mahasiswa tentang ancaman siber melalui simulasi interaktif yang visual dan instan.
 
 ## 🚀 Live Demo
-[LINK WEBSITE GITHUB PAGES KAMU DI SINI]
+https://shadow-a2234.github.io/CYBERSEC/
 
 ## 🏫 Arah & Fokus Project
 - **Manfaat Kampus:** Memberikan edukasi praktis mengenai perlindungan data pribadi dan administrasi kampus (SIAKAD/Portal Mahasiswa).
