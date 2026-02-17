@@ -25,4 +25,4 @@ https://shadow-a2234.github.io/CYBERSEC/
 Dibuat sebagai solusi digital yang aplikatif dan relevan bagi civitas akademika.
 
 ---
-© 2026 Muhammad Abdi | Politeknik Hasnur | SPINOTEK
+© 2026 Muhammad Abdi & Muhammad Haikal | Politeknik Hasnur | SPINOTEK
